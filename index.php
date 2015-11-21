@@ -21,7 +21,7 @@
         </div>
         <div class="page-buffer"></div>
     </div>
-        <p>qweqwe</p>
+    <p>Последнюю версию исходного кода скрипта(21.11.15) можно посмотреть в <a href='https://github.com/DooMsssDaY/DNStest' target='_blink'>репозитории на githab.com<a/></p>
         <div class="page-footer">
             Тестовое задание для DNS. 2015г.
             <span class='right'>Турушев Николай(Tur.Nik.8@mail.ru)</span>
